@@ -1,10 +1,8 @@
-# Hello, I'm Junho!
-Welcome to my GitHub
+# Hello, I'm Junho! Welcome to my GitHub
 
-## My Profile
-###  Blog & Portfolio
+## Blog & Portfolio
 -  [Tech Blog](https://velog.io/@jjunho)
 - 💼 [Notion Portfolio](https://childlike-mahogany-afc.notion.site/Portfolio-1a02afb756eb807caafee66803739f72)
 
-### Contact
+## Contact
 - Email: junho891818@gmail.com
