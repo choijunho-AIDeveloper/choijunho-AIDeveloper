@@ -1,13 +1,13 @@
 # Hello, I'm Junho! Welcome to my GitHub
 
-## Blog & Portfolio
+## 🧐 Blog & Portfolio
 - [Tech Blog](https://velog.io/@jjunho)
 - [Notion Portfolio](https://childlike-mahogany-afc.notion.site/Portpolio-1a02afb756eb807caafee66803739f27?pvs=74)
 
 ## ✉️Contact
 - [Email](jjunho891818@gmail.com)
 
-## Articles
+## 📰 Articles
 - [F1Tenth](https://view.asiae.co.kr/article/2022062014180859030)
 
 ## 🏃‍♂️ Career
