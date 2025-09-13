@@ -72,3 +72,7 @@ ICRA 2022 F1Tenth Virtual Competition 예선 2위 본선 2위
 
 - [OGM](https://childlike-mahogany-afc.notion.site/OGM-On-Going-1a62afb756eb80ba907ce3146a3d3374)
 
+## Problem Solving
+[![Solved.ac wnsgh8918](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgh8918)](https://solved.ac/wnsgh8918)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=wnsgh8918&theme=dark)
