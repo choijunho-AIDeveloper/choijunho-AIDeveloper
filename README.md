@@ -2,9 +2,6 @@
 - [Tech Blog](https://velog.io/@jjunho)
 - [Notion Portfolio](https://childlike-mahogany-afc.notion.site/Portpolio-1a02afb756eb807caafee66803739f27?pvs=74)
 
-## ✉️ Contact
-- [Email](jjunho891818@gmail.com)
-
 ## 📰 Articles
 - [F1Tenth](https://view.asiae.co.kr/article/2022062014180859030)
 
@@ -31,8 +28,6 @@
 - GuideBot(사업 아이템) 사업화 추진
 - Vision 파트 개발 담당
 
-딥러닝 모델링 스터디(2025.07.~ 2025.10.)
-
 네이버 부스트캠프 AI Tech 8기(2025.09. ~ ing)
 
 ## 🏆 Awards
@@ -45,18 +40,10 @@ ICRA 2022 F1Tenth Virtual Competition 예선 2위 본선 2위
 
 💻 Language
 - Python
-- ROS
 
 🛠️ Framework
 - Pytorch
 - Huggingface
-
-🖥️ Frontend
-- PyQT
-
-⚙️ Backend
-- Django
-- Flask
 
 ✍️ Version Control
 - Git
