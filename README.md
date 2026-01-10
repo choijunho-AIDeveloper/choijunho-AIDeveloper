@@ -57,9 +57,6 @@ ICRA 2022 F1Tenth Virtual Competition 예선 2위 본선 2위
 
 - [OGM](https://childlike-mahogany-afc.notion.site/OGM-On-Going-1a62afb756eb80ba907ce3146a3d3374)
 
-## 🧐 Blog
-- [Tech Blog](https://velog.io/@jjunho)
-
 ## 📰 Articles
 - [F1Tenth](https://view.asiae.co.kr/article/2022062014180859030)
 
