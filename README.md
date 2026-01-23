@@ -46,20 +46,6 @@ ICRA 2022 F1Tenth Virtual Competition 예선 2위 본선 2위
 ✍️ Version Control
 - Git
 
-## 📝 Projects
-- [F1Tenth](https://childlike-mahogany-afc.notion.site/F1Tenth-Autonomous-Driving-1a02afb756eb81869324e33952894126)
-
-- [GuideBot](https://childlike-mahogany-afc.notion.site/GuideBot-1a02afb756eb81dd83b2e73df4b8bdce?pvs=143)
-
-- [Coordinate Prediction Program](https://childlike-mahogany-afc.notion.site/1a02afb756eb8108885ee42fa4ca4749)
-
-- [AutoLabelingTool](https://childlike-mahogany-afc.notion.site/AutoLabelingTool-1a02afb756eb810f8875ceef5c8a6272)
-
-- [OGM](https://childlike-mahogany-afc.notion.site/OGM-On-Going-1a62afb756eb80ba907ce3146a3d3374)
-
-## 📰 Articles
-- [F1Tenth](https://view.asiae.co.kr/article/2022062014180859030)
-
 ## Problem Solving
 [![Solved.ac wnsgh8918](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgh8918)](https://solved.ac/wnsgh8918)
 
