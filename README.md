@@ -1,50 +1,15 @@
-## 🔎 Profile
-<Update soon>
+## Profile
+안녕하세요, AI 엔지니어 최준호입니다.
 
-## 🏃‍♂ Career
-
-공군 AI팀(2023.11. ~ 2025.06.)
-
-- 시계열 좌표 예측 프로그램 모델링 담당(2023.12~2024.04)
-    
-- AutoLabeling Tool 개발 총괄 및 Segment 모델링, 프론트엔드 담당(2024.05~2024.09)
-    
-- OGM 모델링 담당(2024.11~2025.04)
-
-## 🎒 Activities
-
-경상국립대학교 Cyber Safety Lab 학부연구생(2021.09. ~ 2022.06)
-
-- F1Tenth 자율주행 알고리즘 연구
-- 속도 조절 알고리즘 개발 담당
-
-교내 빅데이터 창업 동아리(2022.06. ~ 2022.11.)
-
-- 팀장
-- GuideBot(사업 아이템) 사업화 추진
-- Vision 파트 개발 담당
-
-네이버 부스트캠프 AI Tech 8기(2025.09. ~ 2026.02.)
-
-## 🏆 Awards
-
-ICRA 2022 F1Tenth Virtual Competition 예선 2위 본선 2위
-
-2022 빅데이터 창업 동아리 경진 대회 예선 최우수상 본선 최우수상
-
-## ⛏️ Skills and Tools
-
-💻 Language
-- Python
-
-🛠️ Framework
-- Pytorch
-- Huggingface
-- Langchain
-- Langgraph
-
-✍️ Version Control
-- Git
+## Repo Info
+- Military-Generative-Model: 공군 LLM 프로젝트의 기술 프로토타입으로 "병역법" Chatbot을 Exaone3.5 베이스로 설계
+- deep_learning_study25: 모델링 스터디 자료
+- HF-Study: Huggingface 스터디 자료
+- AI-Note: AI 관련 알고리즘, 아키텍처 등을 scratch부터 구현
+- Deep-dive-Kaggle: Kaggle 스터디 자료
+- Algorithm: 알고리즘 공부 자료
+- TextRPG: Qwen3 기반 TextRPG
+- tiny-distill(Update soon): On-device LLM 리서치 
 
 ## Problem Solving
 [![Solved.ac wnsgh8918](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgh8918)](https://solved.ac/wnsgh8918)
