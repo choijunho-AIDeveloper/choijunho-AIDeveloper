@@ -9,7 +9,9 @@
 - Deep-dive-Kaggle: Kaggle 스터디 자료
 - Algorithm: 알고리즘 공부 자료
 - TextRPG: Qwen3 기반 TextRPG
-- tiny-distill(Update soon): On-device LLM 리서치 
+- tiny-distill(Update soon): On-device LLM 리서치
+- pro-nlp-generationfornlp-nlp-03: 수능형 문제 풀이 프로젝트
+- pro-nlp-mrc-nlp-03: ODQA 프로젝트
 
 ## Problem Solving
 [![Solved.ac wnsgh8918](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgh8918)](https://solved.ac/wnsgh8918)
