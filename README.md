@@ -1,9 +1,7 @@
 ## Profile
 안녕하세요, AI 엔지니어 최준호입니다.
 
----
-
-## Key Projects & Repositories
+## Information of Repositories
 
 ### LLM & NLP
 * **Military-Generative-Model**: 공군 LLM 기술 프로토타입 (Exaone3.5 기반 "병역법" Chatbot)
@@ -17,16 +15,12 @@
 * **Deep-dive-Kaggle**: Kaggle Competition 스터디 자료
 * **tiny-distill `Update Soon`**: On-device LLM 리서치 및 경량화 프로젝트
 
----
-
 ## My Hugging Face Models
 
 | Model Name | Optimization | Link |
 | :--- | :---: | :--- |
 | **Qwen3-4B-Instruct-2507-Korean-AWQ** | `AWQ Quantization` | [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/Qwen3-4B-Instruct-2507-Korean-AWQ) |
 | **Qwen3-4B-Instruct-2507-MLC** | `MLC-LLM (On-Device)` | [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/Qwen3-4B-Instruct-2507-MLC) |
-
----
 
 ## Problem Solving
 
