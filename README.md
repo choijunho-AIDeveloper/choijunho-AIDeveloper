@@ -18,6 +18,9 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wnsgh8918&theme=dark)
 
-## My Huggingface Model
-[![Qwen3-4B-Instruct-2507-Korean-AWQ](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-orange)](https://huggingface.co/jjjunho/Qwen3-4B-Instruct-2507-Korean-AWQ)
-[![wen3-4B-Instruct-2507-MLC](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-orange)](https://huggingface.co/jjjunho/Qwen3-4B-Instruct-2507-MLC)
+## 🤖 My Hugging Face Models
+
+| Model Name | Type | Link |
+| :--- | :---: | :--- |
+| **Qwen3-4B-Instruct-2507-Korean-AWQ** | AWQ | [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/Qwen3-4B-Instruct-2507-Korean-AWQ) |
+| **Qwen3-4B-Instruct-2507-MLC** | MLC-LLM(On-Device) | [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/Qwen3-4B-Instruct-2507-MLC) |
