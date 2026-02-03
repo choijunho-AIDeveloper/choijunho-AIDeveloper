@@ -17,3 +17,5 @@
 [![Solved.ac wnsgh8918](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgh8918)](https://solved.ac/wnsgh8918)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wnsgh8918&theme=dark)
+
+[![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-orange)](jjjunho/Qwen3-4B-Instruct-2507-Korean-AWQ)
