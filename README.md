@@ -6,20 +6,20 @@
 ### LLM & NLP
 | Project Name | Description | Link |
 | :--- | :---: | :--- |
-| **pro-nlp-finalproject-nlp-03** | 레시퓨(네이버 부스트캠프) | [![Link](https://github.com/choijunho-AIDeveloper/pro-nlp-finalproject-nlp-03) |
-| **pro-nlp-generationfornlp-nlp-03** | 수능형 문제 풀이(네이버 부스트캠프) | [![Link](https://github.com/choijunho-AIDeveloper/pro-nlp-generationfornlp-nlp-03) |
-| **pro-nlp-mrc-nlp-03** | ODQA(네이버 부스트캠프) | [![Link](https://github.com/choijunho-AIDeveloper/pro-nlp-mrc-nlp-03) |
-| **Military-Generative-Model** | 공군 LLM 기술 프로토타입 (Exaone3.5 기반 병역법 Chatbot) | [![Link](https://github.com/choijunho-AIDeveloper/Military-Generative-Model) |
-| **TextRPG** | Qwen3 기반 인터렉티브 텍스트 RPG | [![Link](https://github.com/choijunho-AIDeveloper/TextRPG) |
+| **pro-nlp-finalproject-nlp-03** | 레시퓨(네이버 부스트캠프) | [Link](https://github.com/choijunho-AIDeveloper/pro-nlp-finalproject-nlp-03) |
+| **pro-nlp-generationfornlp-nlp-03** | 수능형 문제 풀이(네이버 부스트캠프) | [Link](https://github.com/choijunho-AIDeveloper/pro-nlp-generationfornlp-nlp-03) |
+| **pro-nlp-mrc-nlp-03** | ODQA(네이버 부스트캠프) | [Link](https://github.com/choijunho-AIDeveloper/pro-nlp-mrc-nlp-03) |
+| **Military-Generative-Model** | 공군 LLM 기술 프로토타입 (Exaone3.5 기반 병역법 Chatbot) | [Link](https://github.com/choijunho-AIDeveloper/Military-Generative-Model) |
+| **TextRPG** | Qwen3 기반 인터렉티브 텍스트 RPG | [Link](https://github.com/choijunho-AIDeveloper/TextRPG) |
 
 ### Study & Research
 | Project Name | Description | Link |
 | :--- | :---: | :--- |
-| **AI-Note** | 주요 AI 알고리즘 및 아키텍처를 Scratch부터 구현 | [![Link](https://github.com/choijunho-AIDeveloper/AI-Note) |
-| **deep_learning_study25** | 딥러닝 모델링 스터디 자료 | [![Link](https://github.com/choijunho-AIDeveloper/deep_learning_study25) |
-| **HF-Study** | Huggingface 스터디 자료 | [![Link](https://github.com/choijunho-AIDeveloper/HF-Study) |
-| **Algorithm** | 알고리즘 문제 해결 | [![Link](https://github.com/choijunho-AIDeveloper/Algorithm) |
-| **Deep-dive-Kaggle** | Kaggle Competition 스터디 자료 | [![Link](https://github.com/choijunho-AIDeveloper/Deep-dive-Kaggle) |
+| **AI-Note** | 주요 AI 알고리즘 및 아키텍처를 Scratch부터 구현 | [Link](https://github.com/choijunho-AIDeveloper/AI-Note) |
+| **deep_learning_study25** | 딥러닝 모델링 스터디 자료 | [Link](https://github.com/choijunho-AIDeveloper/deep_learning_study25) |
+| **HF-Study** | Huggingface 스터디 자료 | [Link](https://github.com/choijunho-AIDeveloper/HF-Study) |
+| **Algorithm** | 알고리즘 문제 해결 | [Link](https://github.com/choijunho-AIDeveloper/Algorithm) |
+| **Deep-dive-Kaggle** | Kaggle Competition 스터디 자료 | [Link](https://github.com/choijunho-AIDeveloper/Deep-dive-Kaggle) |
 | **tiny-distill** | On-device LLM 리서치 및 경량화 | `Update Soon` |
 
 ## My Hugging Face Models
