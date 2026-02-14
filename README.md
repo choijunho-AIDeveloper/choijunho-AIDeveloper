@@ -5,7 +5,7 @@
 
 ### LLM & NLP
 * **Military-Generative-Model**: 공군 LLM 기술 프로토타입 (Exaone3.5 기반 병역법 Chatbot)
-* **pro-nlp-mrc-nlp-03**/**pro-nlp-generationfornlp-nlp-03**: ODQA(Open Domain Question Answering), 수능형 문제풀이 프로젝트(네이버 부스트캠프)
+* **pro-nlp-mrc-nlp-03**/**pro-nlp-generationfornlp-nlp-03**/**pro-nlp-finalproject-nlp-03**: 네이버 부스트캠프 프로젝트 - ODQA(Open Domain Question Answering), 수능형 문제풀이 프로젝트, 레시퓨(RecipeU)
 * **TextRPG**: Qwen3 기반 인터랙티브 텍스트 RPG
 
 ### Study & Research
@@ -21,6 +21,7 @@
 | :--- | :---: | :--- |
 | **Qwen3-4B-Instruct-2507-Korean-AWQ** | `AWQ Quantization` | [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/Qwen3-4B-Instruct-2507-Korean-AWQ) |
 | **Qwen3-4B-Instruct-2507-MLC** | `MLC-LLM (On-Device)` | [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/Qwen3-4B-Instruct-2507-MLC) |
+| **Qwen3-8B-Instruct** | `LoRA` |  [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/Qwen3-8B-Instruct) |
 
 ## Problem Solving
 
