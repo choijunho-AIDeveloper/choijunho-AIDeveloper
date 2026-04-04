@@ -22,7 +22,7 @@
 
 | Model Name | Optimization | Link |
 | :--- | :---: | :--- |
-| **gemma-4-26B-A4B-it-GGUF** | `GGUF Quantization` | [![HF Model](ttps://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/gemma-4-26B-A4B-it-GGUF) |
+| **gemma-4-26B-A4B-it-GGUF** | `GGUF Quantization` | [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/gemma-4-26B-A4B-it-GGUF) |
 | **gemma-4-26B-A4B-GGUF** | `GGUF Quantization` | [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/gemma-4-26B-A4B-GGUF) |
 | **Qwen3-4B-Instruct-2507-Korean-AWQ** | `AWQ Quantization` | [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/Qwen3-4B-Instruct-2507-Korean-AWQ) |
 | **Qwen3-4B-Instruct-2507-MLC** | `MLC-LLM (On-Device)` | [![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-orange)](https://huggingface.co/jjjunho/Qwen3-4B-Instruct-2507-MLC) |
